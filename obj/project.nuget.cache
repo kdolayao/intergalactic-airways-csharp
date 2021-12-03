@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHxVfQ7R12BFbNG1QRP6mNZoEwJN3/UkRNoaq4zi/bFVtS/VGXQPaz1lNfn+5PbEcV10SSOAb8NMHroNGxuu1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KennethOlayao\\source\\repos\\IntergalacticAirways\\IntergalacticAirways\\IntergalacticAirways.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KennethOlayao\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
